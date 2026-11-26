@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.wolf.extractor'
+    namespace 'com.wolf.extractor2'
     compileSdk 34
 
     defaultConfig {
