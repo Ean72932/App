@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity {
     private static final String GITHUB_TOKEN = BuildConfig.MY_API_KEY;
 
     private static final String GITHUB_OWNER = "Ean72932";
-    private static final String GITHUB_REPO = "too"; // تأكد من مطابقة اسم المستودع تماماً
-    private static final String GITHUB_FILE = "2t.json";
+    private static final String GITHUB_REPO = "Ono"; // تأكد من مطابقة اسم المستودع تماماً
+    private static final String GITHUB_FILE = "1o.json";
     private static final String GITHUB_BRANCH = "main";
 
     private WebView webView;
