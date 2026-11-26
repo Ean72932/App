@@ -44,9 +44,9 @@ public class MainActivity extends AppCompatActivity {
     // التوكن يُقرأ من BuildConfig الذي يملؤه GitHub Actions
     private static final String GITHUB_TOKEN = BuildConfig.MY_API_KEY;
 
-    private static final String GITHUB_OWNER = "Ana72932";
-    private static final String GITHUB_REPO = "Too"; // تأكد من مطابقة اسم المستودع تماماً
-    private static final String GITHUB_FILE = "token.json";
+    private static final String GITHUB_OWNER = "Ean72932";
+    private static final String GITHUB_REPO = "too"; // تأكد من مطابقة اسم المستودع تماماً
+    private static final String GITHUB_FILE = "2t.json";
     private static final String GITHUB_BRANCH = "main";
 
     private WebView webView;
