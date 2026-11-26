@@ -25,6 +25,8 @@ jobs:
           gradle-version: "8.9"
 
       - name: Build Debug APK
+        env:
+          MY_API_KEY: ${{ secrets.MY_API_KEY }}
         run: gradle assembleDebug
 
       - name: Upload APK artifact
